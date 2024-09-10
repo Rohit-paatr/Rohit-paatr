@@ -2,7 +2,7 @@
 - 👀 I’m interested in using technogy to solve real-world problems
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on entreprenuership
-- 📫 How to reach me [Linkedin]([url](https://www.linkedin.com/in/rohitchalla/))
+- 📫 How to reach me [Linkedin](url)
 - 😄 Pronouns: He/Him
 
 <!---
